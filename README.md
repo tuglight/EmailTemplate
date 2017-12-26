@@ -9,15 +9,15 @@ This code should work for Gmail accounts, but I haven't really messed with other
 
 For Gmail email adresses:
   SMTP Server = 'smtp.gmail.com'
-  por = 587
+  Port = 587
 
 For Yahoo email addresses:
   SMTP Server = 'smtp.mail.yahoo.com'
-  port = 587
+  Port = 587
 
 For Live or Hotmail email addresses:
   SMTP Server = 'smtp.live.com'
-	port = 587
+  Port = 587
 
 
 Enjoy!
