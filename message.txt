@@ -1,0 +1,7 @@
+Hi to_first_name,
+
+This is an example of an email you could send to someone.  The names would be replaced based on what you enter.
+
+From,
+
+from_first_name from_last_name
